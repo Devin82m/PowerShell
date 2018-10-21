@@ -1,0 +1,1 @@
+﻿Write-S3Object -BucketName author-it-na1-backups -File "\\tstorage\Clients$\na1\1\a.zip" -Key “\Customer - Files\1\a.zip” -AccessKey AKIAJW3LES62EM6XD6EQ -SecretKey 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 -UseAccelerateEndpoint

@@ -1,0 +1,1 @@
+﻿get-childitem -path E:\NA2\2 -filter *.filerun.trash* -Recurse| remove-item -Recurse

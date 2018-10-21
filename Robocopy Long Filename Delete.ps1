@@ -1,0 +1,1 @@
+﻿robocopy D:\Shares\Clients\na1\2\zzz D:\Shares\Clients\na1\2\u /purge
